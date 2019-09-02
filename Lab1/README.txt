@@ -4,7 +4,7 @@
 #
 # May 31, 2011: Now includes the "Beat the Prof" contest
 #
-# Copyright (c) 2002-2011, R. Bryant and D. O'Hallaron
+# Copyright (c) 2002-2016, R. Bryant and D. O'Hallaron
 ######################################################################
 
 This directory contains the files that you will need to run the CS:APP
@@ -16,6 +16,8 @@ Prof" contest that replaces the old email-based version. The new
 contest is completely self-contained and does not require root
 password.  The only requirement is that you have a user account on a
 Linux machine with an IP address.
+
+System requirements: Uses bison and flex to build dlc.
 
 ************
 1. Overview
